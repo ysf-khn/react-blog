@@ -5,8 +5,8 @@ const Nabvar = () => {
     <nav className="navbar">
       <h2>The React Blog</h2>
       <div className="nav-links">
-        <Link>Home</Link>
-        <Link>New Blog</Link>
+        <Link to="/">Home</Link>
+        <Link to="/create">New Blog</Link>
       </div>
     </nav>
   );
