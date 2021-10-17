@@ -33,7 +33,8 @@ a:hover {
   border-radius: 10px;
 }
 
-.blog-preview {
+.blog-preview,
+.blog-details {
   margin: 1.5rem;
   padding: 1rem;
 }
@@ -46,6 +47,10 @@ a:hover {
 .blog-preview a {
   text-decoration: none;
   color: black;
+}
+
+.blog-details div {
+  margin-top: 2rem;
 }
 
 .create h2 {

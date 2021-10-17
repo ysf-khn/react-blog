@@ -5,13 +5,13 @@ const Bloglist = () => {
   const [blog, setBlog] = useState([
     {
       title: "New website",
-      body: "sdjf pwoeuth sdvsj",
+      body: "sdjf pwoeuth sdvsj lorem ipsum ierjb peu paweo poer nv mkew oeirh gojans o4ir uh fdkngb awoeir",
       author: "mario",
       id: 1,
     },
     {
       title: "Bloggg",
-      body: "sdjf per ew woeuth sdvsj",
+      body: "sdjf per ew woeuth sdvsj fels elrj aekrlj",
       author: "yusuf",
       id: 2,
     },
